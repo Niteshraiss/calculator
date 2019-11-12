@@ -22,4 +22,5 @@ export class AppComponent {
   d(){
     this.result=this.no/this.n2;
   }
+  d=["nitesh","rai","age"];
 }
